@@ -2,12 +2,11 @@
 
 The pipeline generates reports, visualizations, and alerts in the `outputs/` folder.
 
-Also  unzip the data set please 
+Also please put the dataset .csv files in the root folder : https://researchdata.se/en/catalogue/dataset/2022-45-1
 
 \## Setup \& Installation
 
 Open your terminal in the project folder and run these commands:
-
 
 python -m venv venv
 
